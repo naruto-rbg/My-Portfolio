@@ -1,0 +1,1 @@
+I made a personal portfolio website using HTML and CSS. It has sections like About Me, Skills, Projects, Education, Experience, and Contact. I also added some animations, hover effects, glowing effects, and 3D-style cards to make the website look modern and interactive.
